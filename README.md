@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
-I'm a Software Engineer at [XAM Consulting](https://xam.com.au) in Sydney, NSW 🏙️. Primarly working with Flutter & .NET Tech!
+I'm a Senior Software Engineer at [XAM Consulting](https://xam.com.au) in Sydney, NSW 🏙️. Primarly working with Flutter & .NET Tech!
 
 - 🔭 I’m currently working on Flutter Applications and Packages!
 - 🌱 I’m learning how to write native applications (iOS, Android, Windows)!
