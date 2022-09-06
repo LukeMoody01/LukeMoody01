@@ -15,6 +15,7 @@ I'm a Senior Software Engineer at [XAM Consulting](https://xam.com.au) & [TFC Co
 ### Open Source Projects
 
 [![Mason Bricks](https://github-readme-stats.vercel.app/api/pin/?username=LukeMoody01&repo=mason_bricks&theme=gruvbox)](https://github.com/LukeMoody01/mason_bricks)
+[![Animate It](https://github-readme-stats.vercel.app/api/pin/?username=LukeMoody01&repo=animate_it&theme=gruvbox)](https://github.com/LukeMoody01/animate_it)
 [![FlutterNavigator](https://github-readme-stats.vercel.app/api/pin/?username=LukeMoody01&repo=flutter_navigator&theme=gruvbox)](https://github.com/LukeMoody01/flutter_navigator)
 [![Moody.DialogService](https://github-readme-stats.vercel.app/api/pin/?username=LukeMoody01&repo=Moody.DialogService&theme=gruvbox)](https://github.com/LukeMoody01/Moody.DialogService)
 - More to come soon!
