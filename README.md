@@ -2,7 +2,7 @@
 
 <img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
 
-I'm a Senior Software Engineer at [XAM Consulting](https://xam.com.au) & [TFC Consulting](https://theflutterco.com/) in Sydney, NSW 🏙️ Primarly working with Flutter & .NET Tech!
+I'm a (Flutter) Technical Lead / Senior Consultant at [XAM Consulting](https://xam.com.au) & [TFC Consulting](https://theflutterco.com/) in Sydney, NSW 🏙️ Primarly working with Flutter & .NET Tech!
 
 - 🔭 I’m currently working on Flutter Applications and Open Source Packages!
 - 🧑‍💻 I’m looking to collaborate on open source projects!
