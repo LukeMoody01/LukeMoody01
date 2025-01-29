@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://i.imgur.com/FjlkaZK.png" height="260"> </img>
-
-I'm a Founder &Principal Consultant at [Cleer Consulting] in Sydney, NSW 🏙️ Primarly working with Flutter & .NET Tech!
+I'm a Founder &P rincipal Consultant at [Cleer Consulting](https://cleerconsulting.com/) in Sydney, NSW 🏙️ Primarly working with Flutter & .NET Tech!
 
 - 🔭 I’m currently working on Flutter Applications and Open Source Packages!
 - 🧑‍💻 I’m looking to collaborate on open source projects!
