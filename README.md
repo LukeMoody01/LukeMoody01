@@ -7,7 +7,7 @@ I'm a Founder & Principal Consultant at [Cleer Consulting](https://cleerconsulti
 - 💬 Ask me about [Flutter](https://flutter.dev), [Dart](https://dart.dev), [.NET](https://dotnet.microsoft.com).
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/luke-moody-0482651a6), [Twitter](https://twitter.com/LukeMoody01)
-<!-- 🌱 I’m learning how to write native applications (iOS, Android, Windows)! -->
+<!-- 🌱 If you are reading this, hello 👋! -->
 
 ### Open Source Projects
 
